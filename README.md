@@ -97,5 +97,6 @@ This project demonstrated how to simulate and manage SDN networks using Floodlig
 - Flexibility in applying security policies.
 
 For more details, refer to the official Floodlight documentation.
-```
+https://floodlight.atlassian.net/wiki/spaces/floodlightcontroller/overview
+https://github.com/floodlight/floodlight
 
