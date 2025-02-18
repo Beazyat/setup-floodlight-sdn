@@ -10,8 +10,8 @@ This document provides a detailed guide on installing and using the Floodlight c
 Software-Defined Networking (SDN) enables dynamic and flexible network management by separating the control plane from the data plane. This document demonstrates how to install and implement an SDN network using Floodlight (as the controller) and Mininet (as the network simulator).
 
 ## Prerequisites
-- **Operating System**: Linux-based distributions (e.g., Ubuntu, Fedora, or Arch)
-  ** This tutorial is for the Arch base distro and install on another distro a little different.
+- **Operating System**: Linux-based distributions (e.g., Ubuntu, Fedora, or Arch).
+ This tutorial is for the Arch base distro and install on another distro a little different.
 - **Python**: Version 3 or higher.
 - **Development Tools**: Git, pip, OpenvSwitch, build-essential.
 
