@@ -1,8 +1,6 @@
 # setup-floodlight-sdn
 A step-by-step guide to installing and configuring the Floodlight SDN controller. Includes dependencies, setup instructions, and troubleshooting tips.
 Sure! Here's your text in Markdown with the English translation:
-
-```markdown
 # Abstract
 This document examines and provides a guide on how to install and use the Floodlight controller (an SDN-based controller) and the Mininet network simulator. The main goal is to provide a comprehensive guide for beginners and enthusiasts in the field of Software-Defined Networks (SDN).
 
