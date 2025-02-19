@@ -61,6 +61,9 @@ mvn clean install
 java -jar target/floodlight.jar
 ```
 
+### For check app is worked search this link:
+http://localhost:8080/ui/pages/index.html
+
 ## Using Floodlight
 ### Connecting Mininet to Floodlight
 1. Run Floodlight (default port: 6653).
